@@ -6,9 +6,11 @@ For purchase and more info join: https://discord.gg/5wsT9Zcnw4
 Main Features
 
 - Automated fighting for unlimited amount of ZOANS.
+- 
          - Use fighting only or in combination with Marketplace sniping.
          - Time between fights can be configured.
 - Automated Marketplace sniping.
+- 
          - Minimum price adjustable
          - Snipe all ZOANS or Specific ones e.g. Mushroom
 
